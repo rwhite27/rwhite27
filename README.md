@@ -8,5 +8,3 @@
 - 📫 How to reach me: rafaelwhite27@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwhite27&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rwhite27)](https://github.com/anuraghazra/github-readme-stats)
