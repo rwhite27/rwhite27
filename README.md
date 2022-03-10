@@ -12,3 +12,5 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwhite27&theme=onedark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rwhite27)](https://git.io/streak-stats)
